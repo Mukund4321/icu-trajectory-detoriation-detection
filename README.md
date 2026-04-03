@@ -33,6 +33,13 @@ Monitors ICU patient vital signs over time and flags physiological deterioration
 
 This produces a 26% positive rate vs 5% for sepsis-only labels, enabling the GRU to learn meaningful trajectory patterns.
 
+<img width="2864" height="1366" alt="Screenshot 2026-04-01 192532" src="https://github.com/user-attachments/assets/296fc36d-9d9a-4b51-bcd4-78a5ad1b5352" />
+
+
+<img width="2730" height="1370" alt="Screenshot 2026-04-01 192957" src="https://github.com/user-attachments/assets/2f9d8df6-47d3-474d-ad20-994e67cbd202" />
+
+
+
 ---
 
 ## Architecture
