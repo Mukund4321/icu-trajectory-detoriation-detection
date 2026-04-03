@@ -1,0 +1,50 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg-info/
+*.egg
+.Python
+
+# Virtual environment
+.venv/
+venv/
+env/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+.DS_Store
+Thumbs.db
+
+# Claude
+.claude/
+
+# Data — raw PhysioNet files are too large for GitHub
+data/raw/
+data/processed/
+data/simulations/
+data/backend_patients.json
+data/backend_readings.json
+data/patients.json
+
+# Trained models — too large for GitHub
+models/*.pt
+models/*.pkl
+
+# Results
+results/*.png
+results/*.pdf
+
+# Logs
+*.log
+backend.log
+
+# Misc junk
+package-lock.json
+*.tmp
+*.temp
+.cache/
+.pytest_cache/
+.coverage
