@@ -20,6 +20,7 @@ Thumbs.db
 
 # Claude
 .claude/
+.claudeignore
 
 # Data — raw PhysioNet files are too large for GitHub
 data/raw/
